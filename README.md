@@ -1,5 +1,8 @@
 # 📚StackUp Nexus
 
+
+![Alt Text](https://github.com/kamalan2k4/StackUp-Nexus/blob/main/public/images/Home.png)
+
 **StackUp Nexus** is an advanced **Library Management** System designed to streamline the process of book borrowing, user management, and library administration with a modern, scalable, and highly optimized architecture.
 
 Built using Next.js, TypeScript, PostgreSQL, Upstash, and Tailwind CSS, it provides a seamless user experience with:
